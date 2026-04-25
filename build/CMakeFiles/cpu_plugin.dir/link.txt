@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libcpu_plugin.dylib -install_name @rpath/libcpu_plugin.dylib CMakeFiles/cpu_plugin.dir/src/cpu_plugin.cpp.o  libcpu_module.a -framework CoreFoundation

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu_module.a CMakeFiles/cpu_module.dir/src/CpuModule.cpp.o CMakeFiles/cpu_module.dir/src/platform/CpuMacOS.cpp.o
+/usr/bin/ranlib libcpu_module.a

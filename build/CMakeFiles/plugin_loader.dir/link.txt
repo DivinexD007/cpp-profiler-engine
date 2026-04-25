@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplugin_loader.a CMakeFiles/plugin_loader.dir/src/loader/PluginLoader.cpp.o
+/usr/bin/ranlib libplugin_loader.a
